@@ -1,0 +1,1 @@
+pyinstaller.exe -Fw .\main.py --add-data="categorys_chooser.ui;." --add-data="wallpaper_downloader.ui;." --add-data="F:\workspace\wallpaper-downloader\source;source" -i .\229155190231137135.ico
